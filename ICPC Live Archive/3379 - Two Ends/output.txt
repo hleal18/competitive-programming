@@ -1,0 +1,17 @@
+In game 1, the greedy strategy might lose by as many as 7 points.
+In game 2, the greedy strategy might lose by as many as 4 points.
+In game 3, the greedy strategy might lose by as many as 5 points.
+In game 4, the greedy strategy might lose by as many as 1 points.
+In game 5, the greedy strategy might lose by as many as 1561664034 points.
+In game 6, the greedy strategy might lose by as many as 1561664041 points.
+In game 7, the greedy strategy might lose by as many as 1 points.
+In game 8, the greedy strategy might lose by as many as 1561664023 points.
+In game 9, the greedy strategy might lose by as many as 1561664040 points.
+In game 10, the greedy strategy might lose by as many as 1561664041 points.
+In game 11, the greedy strategy might lose by as many as 1 points.
+In game 12, the greedy strategy might lose by as many as 1561664023 points.
+In game 13, the greedy strategy might lose by as many as -16 points.
+In game 14, the greedy strategy might lose by as many as 1213 points.
+In game 15, the greedy strategy might lose by as many as 48 points.
+In game 16, the greedy strategy might lose by as many as 59 points.
+In game 17, the greedy strategy might lose by as many as 69119 points.
